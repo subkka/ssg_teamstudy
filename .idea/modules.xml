@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ssg_teamstudy.iml" filepath="$PROJECT_DIR$/.idea/ssg_teamstudy.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/fork-test.iml" filepath="$PROJECT_DIR$/.idea/fork-test.iml" />
->>>>>>> 55a8272574adb745470fd2d2eea250e495d4932c
     </modules>
   </component>
 </project>
