@@ -14,9 +14,7 @@ public class LiteralVariableOperator {
         /*
         double y = 22;
         final int z = 3;
-        int result;
-        double result2;
-        System.out.println(y/z == 7 ? z++ : z % 3);
+        System.out.println(y/z == 7 ? z++ : z % 3); // 2번 답 :
         */
     }
 }
